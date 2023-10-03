@@ -172,7 +172,7 @@
 										</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<p>Our dashboard segments orders into categories and subcategories,
+									<p> Our dashboard segments orders into categories and subcategories,
 										 streamlining data management. Identifying top-selling products 
 										 and monitoring order volumes helps us make informed decisions about 
 										 inventory and marketing strategies. Leveraging these insights will
