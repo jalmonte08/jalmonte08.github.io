@@ -183,7 +183,7 @@
 								</article>
 								<article>
 									<header>
-										<h2><a href="#"> Cookies Performance <br> </a></h2>
+										<h2><a href="#"> Cookies Performance Dashboard <br> </a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic11.png" alt="" /></a>
 									<p>A performance data dashboard is a tool for tracking and visualizing key 
@@ -225,8 +225,8 @@
 							<section>
 								<h3>Social</h3>
 								<ul class="icons alt">
-									<li><a href="https://www.linkedin.com/in/juan-almonte" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
-							        <li><a href="https://github.com/jalmonte08.github.io" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.linkedin.com/in/juan-almonte" class="icon brands fa-linkedin"><span 												class="label">Linkedin</span></a></li>
+							        <li><a href="https://github.com/jalmonte08.github.io" class="icon brands fa-github"><span class="label">GitHub</span>									</a></li>
 																	</ul>
 							</section>
 						</section>
