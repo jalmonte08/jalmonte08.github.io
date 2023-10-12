@@ -172,12 +172,38 @@
 										</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<p> Our dashboard segments orders into categories and subcategories,
+									<p>Our dashboard segments orders into categories and subcategories,
 										 streamlining data management. Identifying top-selling products 
 										 and monitoring order volumes helps us make informed decisions about 
 										 inventory and marketing strategies. Leveraging these insights will
 										  drive growth and profitability. </p>
 									<ul class="actions special">
+
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#"> Cookies Performance <br> </a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic11.png" alt="" /></a>
+									<p>A performance data dashboard is a tool for tracking and visualizing key 
+									    performance indicators (KPIs) and metrics. It offers real-time monitoring, 
+										data visualization, customization, and supports data-driven decision-making a
+										cross various functions. Dashboards promote transparency, accountability, 
+										and continuous improvement, making them valuable assets for organizations.e.</p>
+									<ul class="actions special">
+									
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="#">Incentive Effectiveness Analysis<br />
+										</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="images/pic06.png" alt="" /></a>
+									<p>Before the incentive program, in June, we were selling an average of 10.98 cell phone lines each day. In July, this number went down slightly to 10.45. But in August, after starting the incentive program, we saw a big increase. We were selling an average of 13.13 mobile phone lines per day. That's a big 27% increase from July to August! So, the program really helped us sell more mobile lines.
+										</p>
+									<ul class="actions special">	
 																			</ul>
 								</article>
 							</section>
