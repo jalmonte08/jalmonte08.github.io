@@ -100,19 +100,6 @@
 										   games, data is the key to conquering challenges and leveling up. </p>
 									<ul class="actions special">
 
-  <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Games Sales Dashboard</title>
-</head>
-<body>
-    <h1>Video Games Sales Dashboard</h1>
-    <p>Click <a href="https://public.tableau.com/views/VideoGamesSales_16955860037200/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">here</a> to view the dashboard.</p>
-</body>
-</html>
-
 										
 									</ul>
 								</article>
