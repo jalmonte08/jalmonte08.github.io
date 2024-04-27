@@ -97,7 +97,10 @@
 										  ensuring an enjoyable experience. Staying ahead of market trends with data-driven insights is 
 										  crucial for sustained success. Robust cheating detection systems maintain fairness and competitiveness.
 										   Predictive analytics prepare the industry for shifts and emerging opportunities. In the world of video 
-										   games, data is the key to conquering challenges and leveling up.</p>
+										   games, data is the key to conquering challenges and leveling up.
+	     
+                                                                                    Link: (https://public.tableau.com/views/VideoGamesSales_16955860037200/Dashboard1?:language=en- 
+                                                                                    US&:sid=&:display_count=n&:origin=viz_share_link) </p>
 									<ul class="actions special">
 										
 									</ul>
