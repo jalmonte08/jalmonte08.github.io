@@ -198,10 +198,10 @@
 								</article>
 								<article>
 									<header>
-										<h2><a href="#">Incentive Effectiveness Analysis<br />
+										<h2><a href="#">March First Call Resolution Rate<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic06.png" alt="" /></a>
+									<a href="#" class="image fit"><img src="images/FirstCallResolution.png" alt="" /></a>
 									<p>Agents with rates above 69.79% are meeting or exceeding the target, while those below might need additional support or training to improve their performance. It might be helpful to analyze the practices of the top-performing agents and implement them as best practices across the team, while also providing targeted assistance and resources to agents who are struggling to meet the target. This approach can help drive overall improvement in the team's first call resolution rate.
 										</p>
 									<ul class="actions special">	
