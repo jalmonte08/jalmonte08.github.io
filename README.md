@@ -202,7 +202,7 @@
 										</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic06.png" alt="" /></a>
-									<p>Before the incentive program, in June, we were selling an average of 10.98 cell phone lines each day. In July, this number went down slightly to 10.45. But in August, after starting the incentive program, we saw a big increase. We were selling an average of 13.13 mobile phone lines per day. That's a big 27% increase from July to August! So, the program really helped us sell more mobile lines.
+									<p>Agents with rates above 69.79% are meeting or exceeding the target, while those below might need additional support or training to improve their performance. It might be helpful to analyze the practices of the top-performing agents and implement them as best practices across the team, while also providing targeted assistance and resources to agents who are struggling to meet the target. This approach can help drive overall improvement in the team's first call resolution rate.
 										</p>
 									<ul class="actions special">	
 																			</ul>
